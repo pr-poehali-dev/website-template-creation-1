@@ -51,9 +51,7 @@ const Index = () => {
                   <time>15 октября 2025</time>
                 </div>
                 
-                <h2 className="text-5xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight text-foreground group-hover:text-primary transition-colors">
-                  Искусство минимализма в современном дизайне
-                </h2>
+                <h2 className="text-5xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight text-foreground group-hover:text-primary transition-colors">История жанра "ню метал"</h2>
                 
                 <p className="text-xl text-muted-foreground leading-relaxed mb-8 font-light">
                   Как простота формы создаёт сильное визуальное воздействие и почему меньше часто означает больше в мире цифрового творчества.
